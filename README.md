@@ -1,2 +1,2 @@
 # Entrega
-Tecnicas y herraminetas I 2022
+Tecnicas y herramientas I 2022
